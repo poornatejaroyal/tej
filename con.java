@@ -20,7 +20,7 @@ public class AppTest
 				            super( testName );
 					        }
 
-		    /**turn
+		    /**turnre
 
 		     *      * @return the suite of tests being tested
 		     *           */
